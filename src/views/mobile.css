@@ -1059,7 +1059,7 @@ p{
         viewport-fit: cover !important;
       }
     }
-    @media only screen and (width: 820px)  {
+    @media only screen and (min-width: 758px) and (max-width: 830px) {
         .nav-container{
             padding-top: 30px !important;
         }
@@ -1090,5 +1090,82 @@ p{
           .intro3 > h1 {
             font-size: 70px !important;
           }
+          .event-section{
+            display: flex;
+            flex-flow: column wrap;
+            justify-content: center;
+           
+          }
+          .even{
+            aspect-ratio: 1/1;
+             width: 560px !important;
+             align-items: center !important;
+           }
+           .even2{
+            
+            width: 560px !important;
+            align-items: center !important;
+            aspect-ratio: 1/1;
+           }
+           .even3{
+            
+            width: 560px !important;
+            align-items: center !important;
+            aspect-ratio: 1/1 !important;
+           
+           }
+           
+           .event-card {
+            margin: 0 10px;
+          height: 170px;
+          width: 630px !important;
+          background: #07182E;
+          position: relative;
+          display: flex;
+          place-content: center;
+          place-items: center;
+          overflow: hidden;
+          border-radius: 20px;
+          transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+           
 
+    }
+    @media only screen and (width: 768px) {
+      .banner-video{
+        position: absolute;
+        left: 0px !important;
+        right: 0px !important;
+        top: 0;
+        bottom: 0px !important;
+        z-index: 0;
+        width: 100% !important;
+        /* height: 770px !important; */
+        
+      }
+      .intro-container{
+        width: 100% !important;
+        height: 1270px !important;
+        align-items: center;
+      
+      }
+    }
+    @media only screen and (width: 912px) {
+      .banner-video{
+        position: absolute;
+        left: 0px !important;
+        right: 0px !important;
+        top: 0;
+        bottom: 0px !important;
+        z-index: 0;
+        width: 100% !important;
+        /* height: 770px !important; */
+        
+      }
+      .intro-container{
+        width: 100% !important;
+        height: 1550px !important;
+        align-items: center;
+      
+      }
     }

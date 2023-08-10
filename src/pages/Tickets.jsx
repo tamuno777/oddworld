@@ -153,7 +153,7 @@ export default function Tickets() {
  
 
   return (
-    <div className='bg-dark text-white pb-5' >
+    <div className='bg-dark text-white pb-5 ticket-con' >
       <Navs/>
       <Transition>
           <div className='d-flex justify-content-center'>
@@ -167,14 +167,14 @@ export default function Tickets() {
                     <input
                               onChange={(e) => setUser(e.target.value)}
 
-                     type="text" id="name" name="name" required="" className='input'/>
+                     type="text" id="name" name="name" required className='input'/>
                   </div>
                   <div className="form-group">
                     <label htmlFor="email">EMAIL</label>
                     <input
                               onChange={(e) => setEmail(e.target.value)}
 
-                     type="email" id="email" name="email" required="" className='input'/>
+                     type="email" id="email" name="email" required className='input'/>
                   </div>
                   <div className="form-group">
                     <label htmlFor="text">TYPE OF TICKET</label>

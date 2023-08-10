@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { useScroll, useTransform } from 'framer-motion'
 // import { celeb } from '../data/artistdata';
 import { LazyLoadImage } from "react-lazy-load-image-component";
-import davido from '../../public/assets/davido.jpg'
+import davido from '/assets/davido.jpg'
 import asake from '/assets/asake.jpg'
 import burna from '/assets/burna.jpg'
 import wizkid from '/assets/wizkid.jpg'

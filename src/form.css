@@ -97,7 +97,80 @@
     background-color: #fff;
     border-color: #fff;
   }
-  
+  @media only screen and (min-width: 390px) and (max-width: 600px) {
+    .form-container{
+      width: fit-content;
+    }
+    .ticket-con{
+      width: 100% !important;
+      height: 100vh !important;
+      padding-top: 20px;
+     
+
+    }
+  }
+  @media only screen and (width: 375px)  {
+    .ticket-con{
+      width: 110vw !important;
+      height: 110vh !important;
+      padding-top: 20px;
+     
+
+    }
+    .form-container{
+      width: fit-content;
+    }
+  }
+  @media only screen and (width: 360px)  {
+    .ticket-con{
+      width: 110vw !important;
+      height: 110vh !important;
+      padding-top: 20px;
+     
+
+    }
+    .form-container{
+      width: fit-content;
+    }
+    .nav-content{
+      display: flex;
+      flex-direction: row !important;
+      justify-content: end !important;
+      overflow: hidden !important;
+    }
+    .cont{
+      display: flex;
+      flex-direction: column !important;
+
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 912px)  {
+    .ticket-con{
+      width: 110vw !important;
+      height: 110vh !important;
+      padding-top: 20px;
+     
+
+    }
+    .nav-content{
+      display: flex;
+      flex-direction: row !important;
+      justify-content: end !important;
+      overflow: hidden !important;
+    }
+    .cont{
+      display: flex;
+      flex-direction: column !important;
+
+    }
+    .form-container{
+      width: 500px ;
+      height:  600px ;
+      padding: 50px;
+      align-items: center;
+    }
+
+  }
   
   
   

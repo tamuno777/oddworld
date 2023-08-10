@@ -11,7 +11,7 @@ function Navs() {
     <>
       
         <Navbar  className=" text-white nav-container w-100 " >
-          <Container fluid className='d-flex'> 
+          <Container fluid className='d-flex cont'> 
            
              
             

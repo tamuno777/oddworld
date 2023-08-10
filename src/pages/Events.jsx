@@ -22,7 +22,7 @@ export default function Events() {
       <Navs/>
       <Transition>
       <section className=' banner' style={{borderBottom:"1px dotted white"}}>
-      <div className='text-center my-5 pt-5 ' style={{position:"relative",top:"50px"}}>
+      <div className='text-center kkt my-5 pt-5 ' style={{position:"relative",top:"50px"}}>
           <div>
           <h6>Lorem ipsum dolor sit.</h6>
           <h2>DEC 16TH -18TH</h2>
@@ -56,7 +56,7 @@ export default function Events() {
             </Link>
             </div>
             <div className='my-1'>
-            <LazyLoadImage src={doja} loading='lazy' className='even' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
+            <LazyLoadImage src={doja} loading='lazy' className='evenn' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
 
             </div>
           
@@ -114,7 +114,7 @@ export default function Events() {
             </Link>
             </div>
             <div className='my-1'>
-            <LazyLoadImage src={doja} loading='lazy' className='even' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
+            <LazyLoadImage src={doja} loading='lazy' className='evenn' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
 
             </div>
           
@@ -162,7 +162,7 @@ export default function Events() {
             </Link>
             </div>
             <div className='my-1'>
-            <LazyLoadImage src={doja} loading='lazy' className='even' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
+            <LazyLoadImage src={doja} loading='lazy' className='evenn' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
 
             </div>
           
@@ -210,7 +210,7 @@ export default function Events() {
             </Link>
             </div>
             <div className='my-1'>
-            <LazyLoadImage src={doja} loading='lazy' className='even' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
+            <LazyLoadImage src={doja} loading='lazy' className='evenn' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
 
             </div>
           
@@ -258,7 +258,7 @@ export default function Events() {
             </Link>
             </div>
             <div className='my-1'>
-            <LazyLoadImage src={doja} loading='lazy' className='even' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
+            <LazyLoadImage src={doja} loading='lazy' className='evenn' alt="" style={{width:"220px",borderRadius:"10px",alignItems:"center",textAlign:"center"}} />
 
             </div>
           
