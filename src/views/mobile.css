@@ -488,7 +488,7 @@ p{
 #container-stars {
   position: absolute;
   z-index: -1;
- 
+  
   overflow: hidden;
   transition: 0.5s;
   backdrop-filter: blur(0) !important;
