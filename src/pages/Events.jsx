@@ -232,7 +232,7 @@ export default function Events() {
             
             <div className='my-1 px-1'>
                <p>
-                   hello
+                   hello ! 
               </p>
               <h2 className=''>Lorem ipsum dolor sit.</h2>
               <p><small>Lorem, ipsum dolor.</small></p>
