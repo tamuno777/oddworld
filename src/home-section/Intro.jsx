@@ -26,9 +26,7 @@ export default function Intro() {
           <div className="d-flex justify-content-center">
           <Link className="intro-btn text-center" type="button" to="/Events" state={allstate} style={{textDecoration:"none"}}>
               <strong className='strong'>EVENTS</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>

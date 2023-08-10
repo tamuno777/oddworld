@@ -473,7 +473,7 @@ p{
   width: 12rem !important;
   overflow: hidden;
   height: 3rem;
-  background-size: 300% 300%;
+  /* background-size: 300% 300%; */
   backdrop-filter: blur(1rem);
   border-radius: 5rem;
   transition: 0.5s;

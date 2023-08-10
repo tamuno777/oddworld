@@ -45,9 +45,7 @@ export default function Events() {
               <p>16th-18th december 2023</p>
               <Link className="intro-btn text-center"  type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>BOOk</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+              
 
               <div id="glow">
                 <div className="circle"></div>
@@ -103,9 +101,7 @@ export default function Events() {
               <p>16th-18th december 2023</p>
               <Link className="intro-btn text-center"  type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>BOOk</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
@@ -151,9 +147,7 @@ export default function Events() {
               <p>16th-18th december 2023</p>
               <Link className="intro-btn text-center"  type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>BOOk</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
@@ -199,9 +193,7 @@ export default function Events() {
               <p>16th-18th december 2023</p>
               <Link className="intro-btn text-center"  type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>BOOk</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
@@ -247,9 +239,7 @@ export default function Events() {
               <p>16th-18th december 2023</p>
               <Link className="intro-btn text-center"  type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>BOOk</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>

@@ -49,9 +49,7 @@ export default function Eventss() {
            
              <Link className="intro-btn text-center" type="button" to="/Tickets" state={allstate} style={{textDecoration:"none"}}  >
               <strong className='strong'>ALL THREE DAYS AT NGN2500</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
@@ -72,9 +70,7 @@ export default function Eventss() {
            <h1>DAY ONE</h1>
              <Link className="intro-btn text-center" type="button" to="/Tickets" style={{textDecoration:"none"}} state={onestate}>
               <strong className='strong'>PAY NGN1000</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+              
 
               <div id="glow">
                 <div className="circle"></div>
@@ -98,9 +94,7 @@ export default function Eventss() {
            <h1>DAY TWO</h1>
              <Link className="intro-btn text-center" type="button" to="/Tickets" style={{textDecoration:"none"}} state={twostate} >
               <strong className='strong'>PAY NGN1000</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
@@ -125,9 +119,7 @@ export default function Eventss() {
            <h1>DAY THREE</h1>
              <Link className="intro-btn text-center" type="button" to="/Tickets" style={{textDecoration:"none"}} state={threestate}>
               <strong className='strong'>PAY NGN1000</strong>
-              <div id="container-stars">
-                <div id="stars"></div>
-              </div>
+             
 
               <div id="glow">
                 <div className="circle"></div>
